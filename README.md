@@ -5,7 +5,7 @@ Airbnb is a digital platform that links homeowners looking to rent out their pro
 
 ## 🔗 Project Link
 
-[AirBnB Impact of Regulations](Airbnb_Regulation_Project_Analysis.ipynb)
+[Airbnb_Regulation_Project_Analysis](Airbnb_Regulation_Project_Analysis.ipynb)
 
 <img src="Airbnb.jpg" class="img-fluid" alt="Airbnb Interior View">
 
