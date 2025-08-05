@@ -1,3 +1,5 @@
+# 💡 Python Project by Yash Yennewar
+
 # 🏘️ Airbnb_Business_Regulation_Insights
 Airbnb is a digital platform that links homeowners looking to rent out their properties with travelers in search of a place to stay.
 
@@ -7,22 +9,47 @@ Airbnb is a digital platform that links homeowners looking to rent out their pro
 
 <img src="Airbnb.jpg" class="img-fluid" alt="Airbnb Interior View">
 
+---
+
 ## 🌍 Overview :
 This dataset features Airbnb data from over 250,000 listings across 10 major global cities. It provides comprehensive details on hosts, pricing, locations, room types, and includes more than 5 million historical guest reviews. The dataset offers valuable insights for analyzing patterns in the short-term rental market.
+
+---
+
+## 🛠️ Tools Used :
+The analysis and visualization were performed using the following Python libraries:
+- NumPy – for numerical operations
+- Pandas – for data manipulation and analysis
+- Seaborn – for statistical data visualization
+- Matplotlib – for plotting and data visualization
+
+---
 
 ## 📂 Dataset :
 The dataset consists of the following files:
 - listings.csv<br>
 Offers in-depth information about Airbnb listings, such as host details, location, pricing, and types of accommodations.
-- reviews.csv<br>
-Contains guest reviews for Airbnb listings, including reviewer details, feedback, and review dates.
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
+---
+
+## 🎯 Key Performance Indicators (KPIs) :
+- 🏠 Total Listings
+- 💵 Average Price per Night
+- 🔄 Listing Growth Rate (Monthly/Yearly)
+- 📉 Listing Churn (Drop in active listings post-regulation)
+- 📈 Post-regulation Recovery (Stabilization of listings)
+- 🧾 Distribution by Room Type & Location
+
+---
 
 ## 💡Final Insights :
 1. In the early phase after launch, the number of Airbnbs steadily increased along with prices, driven by initial traction and interest from early adopters.
 2. As the platform gained widespread popularity and became a common utility, listings continued to grow, but prices began to decline gradually.
 3. Following the announcement of regulations around 2015, confidence in the business dipped—resulting in a decline in the no of listings,while prices started increasing.
 4. By 2019, once the regulations had become the new norm, the number of Airbnbs began rising again, and prices started to fall due to the increased supply.
+
+---
 
 ## ✅ Recommendation :
 1. Regulations on long-term rentals can negatively affect the business, potentially leading to customer and host churn due to increased uncertainty.
